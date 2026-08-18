@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AruPortHelper
+## Notes: Debug tool for AruLib - shows stub API calls
+## Version: 1.0
+## Dependencies: AruLib
+## Author: Ayro
+
+AruPortHelper.lua
