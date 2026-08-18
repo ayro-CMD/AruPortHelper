@@ -1,3 +1,8 @@
+if not AruLib then
+    print("|cffff0000AruPortHelper richiede AruLib. Installa AruLib e riavvia.|r")
+    return
+end
+
 local frame = CreateFrame("Frame", "AruPortHelperFrame", UIParent)
 frame:SetSize(300, 200)
 frame:SetPoint("CENTER")
